@@ -5,4 +5,6 @@
 - 偏微分
 - 线性代数
 - 优化理论
+- BBB
+- AAA
 - Balabala
