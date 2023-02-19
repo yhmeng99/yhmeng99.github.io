@@ -1,0 +1,1 @@
+This Blog2 index.
