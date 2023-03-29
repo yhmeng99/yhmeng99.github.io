@@ -1,6 +1,6 @@
 ## **About me**
 
-My name is Mike, and I am a master student in Shanghaitech University.
+My name is Mike, and I am a master student in Shanghaitech University. My instrests mainly focus on the data-driven modelling and machine learning. 
 
 ## **Education**
 
